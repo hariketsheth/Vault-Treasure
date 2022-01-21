@@ -1,0 +1,33 @@
+[
+	{
+		"id": "RT3080",
+		"createdAt": "2022-01-21",
+		"paymentDue": "2022-01-24",
+		"description": "Vault Trial",
+		"paymentTerms": 1,
+		"clientName": "Hariket Sheth",
+		"clientEmail": "sample@hariketsheth.com",
+		"status": "paid",
+		"senderAddress": {
+			"street": "Maharashtra",
+			"city": "Virar",
+			"postCode": "400 206",
+			"country": "India"
+		},
+		"clientAddress": {
+			"street": "106, 11th Road",
+			"city": "Thiruvananthpuram",
+			"postCode": "998 702",
+			"country": "India"
+		},
+		"items": [
+			{
+				"name": "Purchase #1",
+				"quantity": 1,
+				"price": 1800.90,
+				"total": 1800.90
+			}
+		],
+		"total": 800.90
+	}
+]
