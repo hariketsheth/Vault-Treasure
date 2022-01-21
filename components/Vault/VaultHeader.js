@@ -1,6 +1,6 @@
 import styled from 'styled-components'
 
-import Vaultstatus from '../shared/Vaultstatus'
+import Vaultstatus from '../shared/VaultStatus'
 import Button from '../shared/Buttons'
 import { fontStylesA } from '../shared/Typography'
 

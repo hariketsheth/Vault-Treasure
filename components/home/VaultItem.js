@@ -3,7 +3,7 @@ import styled from 'styled-components'
 import dayjs from 'dayjs'
 import { motion } from 'framer-motion'
 
-import Vaultstatus from '../shared/Vaultstatus'
+import Vaultstatus from '../shared/VaultStatus'
 import { Heading2 } from '../shared/Headings'
 import { fontStylesA } from '../shared/Typography'
 
