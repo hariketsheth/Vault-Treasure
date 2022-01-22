@@ -1,7 +1,6 @@
 {
-  "name": "vault-treasure",
-  "version": "0.1.0",
-  "private": true,
+  "name": "hariket-vault",
+  "version": "2.1.0",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
@@ -20,5 +19,25 @@
     "store": "^2.0.12",
     "styled-components": "^5.3.3",
     "yup": "^0.32.11"
-  }
+  },
+  "description": "![forthebadge](https://forthebadge.com/images/badges/made-with-javascript.svg) ![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hariketsheth/Vault-Treasure.git"
+  },
+  "keywords": [
+    "hariket",
+    "hariketsheth",
+    "vault",
+    "vault-treasure",
+    "nextjs",
+    "react"
+  ],
+  "author": "Hariket Sukesh Kumar Sheth",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hariketsheth/Vault-Treasure/issues"
+  },
+  "homepage": "https://github.com/hariketsheth/Vault-Treasure#readme"
 }

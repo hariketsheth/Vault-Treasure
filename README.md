@@ -12,6 +12,37 @@
 - Framer Motion was conviniently used for `Page transitions and animations`
 - Libraries for storing the data in `Local Storage`
 
+## Installation
+> Latest Version: &nbsp;
+> [![npm version](https://badge.fury.io/js/hariket-vault.svg)](https://www.npmjs.com/package/hariket-vault)
+
+<br>
+
+1. Installing the Package
+1.1 Use `npm install`
+```
+npm install hariket-vault
+```
+or
+```
+npm i hariket-vault
+```
+
+1.1 Use `yarn add`
+```
+yarn add hariket-vault
+```
+
+2. Installing the Dependencies
+2.1 Using `npm install` after navigating to the correct directory
+```
+npm install
+```
+
+2.2 Or Use `yarn install` after navigating to the correct directory
+```
+yarn install
+```
 
 ## Future Enhancements
 - Planning for a Account System that works on Database such that Local Storage is not used for storing Vaults
