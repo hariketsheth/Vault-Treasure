@@ -31,7 +31,7 @@ export default function Home({ Vaults, setVaults }) {
 					Vaults {filteredVaults && 
 					filteredVaults.length !== 0 && 
 					`(${filteredVaults.length})` || 
-					''} | Frontend Mentor
+					''} | Hariket Sukesh Kumar Sheth
 				</title>
 			</Head>
 			<Main>

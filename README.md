@@ -14,20 +14,20 @@
 
 ## Installation
 > Latest Version: &nbsp;
-> [![npm version](https://img.shields.io/badge/NPM%20Package%3A%20hariket--vault-2.1.2-green?style=for-the-badge&logo=npm)](https://www.npmjs.com/package/hariket-vault)
+> [![npm version](https://img.shields.io/badge/NPM%20Package%3A%20vault--hariket-2.1.1-green?style=for-the-badge&logo=npm)](https://www.npmjs.com/package/vault-hariket)
 
 <br>
 
 - ## 1. Installing the Package
     - 1.1 Use `npm install`
     ```
-    npm install hariket-vault
-    npm i hariket-vault
+    npm install vault-hariket
+    npm i vault-hariket
     ```
 
     - 1.2 Use `yarn add`
     ```
-    yarn add hariket-vault
+    yarn add vault-hariket
     ```
 <br>
 
