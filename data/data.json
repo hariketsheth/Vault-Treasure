@@ -62,9 +62,34 @@
 		"total": 300.00
 	},
 	{
-		"id": "DF9350",
-		"createdAt": "2022-01-11",
-		"paymentDue": "2022-01-14",
-		"status": "draft"
+		"id": "ZV2353",
+		"createdAt": "2022-01-05",
+		"paymentDue": "2022-01-12",
+		"description": "Vault #4",
+		"paymentTerms": 7,
+		"clientName": "Hariket Sheth",
+		"clientEmail": "",
+		"status": "draft",
+		"senderAddress": {
+			"street": "19th Road, 4th Main",
+			"city": "Dadar",
+			"postCode": "607 800",
+			"country": "India"
+		},
+		"clientAddress": {
+			"street": "",
+			"city": "",
+			"postCode": "",
+			"country": ""
+		},
+		"items": [
+			{
+				"name": "Updates in Features",
+				"quantity": 1,
+				"price": 3102.04,
+				"total": 3102.04
+			}
+		],
+		"total": 3102.04
 	}
 ]
