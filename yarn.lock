@@ -362,7 +362,7 @@ debug@^4.1.0:
   dependencies:
     ms "2.1.2"
 
-deepmerge@^2.1.1:
+deepmerge@^2.1.0:
   version "2.2.1"
   resolved "https://registry.yarnpkg.com/deepmerge/-/deepmerge-2.2.1.tgz#5d3ff22a01c00f645405a2fbc17d0778a1801170"
   integrity sha512-R9hc1Xa/NOBi9WRVUWg19rl1UB7Tt4kuPd+thNJgFZoxXsTz7ncaPaeIm+40oSGuP33DfMb4sZt1QIGiJzC4EA==
@@ -387,7 +387,7 @@ formik@^2.2.9:
   resolved "https://registry.yarnpkg.com/formik/-/formik-2.2.9.tgz#8594ba9c5e2e5cf1f42c5704128e119fc46232d0"
   integrity sha512-LQLcISMmf1r5at4/gyJigGn0gOwFbeEAlji+N9InZF6LIMXnFNkO42sCI8Jt84YZggpD4cPWObAZaxpEFtSzNA==
   dependencies:
-    deepmerge "^2.1.1"
+    deepmerge "^2.1.0"
     hoist-non-react-statics "^3.3.0"
     lodash "^4.17.21"
     lodash-es "^4.17.21"

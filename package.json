@@ -1,6 +1,6 @@
 {
-  "name": "vault-hariket",
-  "version": "2.1.1",
+  "name": "hariketsheth-vault",
+  "version": "2.1.0",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
