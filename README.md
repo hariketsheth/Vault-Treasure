@@ -14,7 +14,7 @@
 
 ## Installation
 > Latest Version: &nbsp;
-> [![npm version](https://badge.fury.io/js/hariket-vault.svg)](https://www.npmjs.com/package/hariket-vault)
+> [![npm version](https://img.shields.io/badge/NPM%20Package%3A%20hariket--vault-2.1.2-green?style=for-the-badge&logo=npm)](https://www.npmjs.com/package/hariket-vault)
 
 <br>
 
