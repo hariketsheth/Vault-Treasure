@@ -62,26 +62,9 @@
 		"total": 300.00
 	},
 	{
-		"id": "BG5120",
+		"id": "DF9350",
 		"createdAt": "2022-01-11",
 		"paymentDue": "2022-01-14",
-		"description": "Vault Pending",
-		"paymentTerms": 0,
-		"clientName": "Hariket Sheth",
-		"clientEmail": "sample@hariketsheth.com",
-		"status": "draft",
-		"senderAddress": {
-			"street": "Maharashtra",
-			"city": "Dadar",
-			"postCode": "400 203",
-			"country": "India"
-		},
-		"clientAddress": {
-			"street": "126, 19th Road",
-			"city": "Panipat",
-			"postCode": "807 514",
-			"country": "India"
-		}
-
+		"status": "draft"
 	}
 ]
