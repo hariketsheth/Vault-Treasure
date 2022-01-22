@@ -1,0 +1,51 @@
+name: Issue | Vault-Treasure
+description: Please describe the issue/bug/feature-request/enhancement in detail
+assignees: 
+  - hariketsheth
+title: "Vault-Treasure: <Title>"
+labels: [to-be-approved]
+body:
+  - type: input
+    id: 
+    attributes:
+      label: Name
+      placeholder: Insert your name here
+    validations:
+      required: true
+  - type: textarea
+    id: Additional
+    attributes:
+      label: Context
+      description: Mention the issue / bug / feature request / enhancement in detail. This would allow us to approve it quickly
+    validations:
+      required: true
+  - type: dropdown
+    id: interests
+    attributes:
+      label: Domain
+      description: You can select multiple options (in case belonging to multiple domains)
+      multiple: true
+      options:
+        - Issue
+        - Solution
+        - Bug
+        - Feature Request
+        - Enhancement
+        - Fix Required
+        - Others
+  - type: checkboxes
+    id: terms
+    attributes:
+      label: Code of Conduct
+      description: By submitting this issue, you agree to follow our [Code of Conduct](https://github.com/hariketsheth/vault-treasure/blob/main/CODE_OF_CONDUCT.md)
+      options:
+        - label: I agree to follow this project's Code of Conduct
+          required: true
+  - type: checkboxes
+    id: contribute
+    attributes:
+      label: Contribute !!
+      description: Would you like to work on this issue yourself? If Yes, please check the box, else keep it unselected
+      options:
+        - label: I would like to work on this myself and contribute
+          required: false
